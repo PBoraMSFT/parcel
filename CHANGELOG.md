@@ -1,4 +1,4 @@
-# Changelog
+# Changelogs
 
 All notable changes to parcel will be documented in this file.
 
